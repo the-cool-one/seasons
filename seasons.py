@@ -1,0 +1,6 @@
+def seasons():
+    print("The weather is pleasant in",spring)
+    print("The weather is the same in",autumn)
+spring="autumn"
+autumn=spring
+seasons()
